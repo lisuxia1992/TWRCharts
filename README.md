@@ -1,6 +1,6 @@
 TWRCharts
 =================
-
+各种图表类型,包括曲线图、柱状图、扇形图以及雷达图
 ## TWRCharts
 
 An Obj-C wrapper for ChartJS. Easily build animated charts by leveraging the power of native code.
